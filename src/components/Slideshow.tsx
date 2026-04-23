@@ -4,9 +4,9 @@ import { useState, useEffect } from "react";
 import Image from "next/image";
 
 const images = [
-  "/images/alley-1.jpg",
-  "/images/alley-2.jpg",
-  "/images/alley-3.jpg",
+  "/cadiz-alley-alliance/images/alley-1.jpg",
+  "/cadiz-alley-alliance/images/alley-2.jpg",
+  "/cadiz-alley-alliance/images/alley-3.jpg",
 ];
 
 export default function Slideshow() {
